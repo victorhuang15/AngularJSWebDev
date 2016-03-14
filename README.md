@@ -1,2 +1,0 @@
-# AngularJSWebDev
-repository for AngularJS
